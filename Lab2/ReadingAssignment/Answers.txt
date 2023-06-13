@@ -1,0 +1,2 @@
+Ancessor methos should be used when you want to retrieve the value of an instance variable from an object in a controlled and safe manner.
+Accessor methods are also useful for enforcing constraints on the values of instance variables.
